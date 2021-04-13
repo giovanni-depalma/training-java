@@ -1,5 +1,6 @@
 # Test - Concessionario di AUTO
 
+
 ## STEP 1
 Lo scopo è gestire un magazzino di "Auto".
 Ogni auto è caratterizzata dalle seguenti proprietà:
