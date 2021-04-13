@@ -11,8 +11,8 @@ Ogni auto è caratterizzata dalle seguenti proprietà:
 
 Dovrà essere possibile modificare il magazzino:
 
-- aggiungere un modello
-- rimuovere un modello in base a un identificativo
+- aggiungere un auto
+- rimuovere un auto in base a un identificativo
 - variare il prezzo di un auto in base a un identificativo
 
 ## STEP 2
